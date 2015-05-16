@@ -1,0 +1,3 @@
+http://www.mikechambers.com/blog/2010/08/04/getting-started-with-flash-and-arduino/
+https://code.google.com/p/tinkerit/wiki/TinkerProxy
+http://www.arduino-hacks.com/simple-rfduino-tutorials-get-started/
